@@ -116,3 +116,6 @@ Customers of the TM195 and TM498 treadmill models, typically aged 26 to 29, with
 
 ## <u>Conclusion</u>
 In this data analysis project, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behavior and characteristics of customers. I then translated my data analysis results into explicit customer profiles for each product and presented key actionable insights for the content marketing team of the company. The marketing team can utilize this knowledge and craft highly targeted strategies, tailored content, and personalized experiences to engage customers effectively and improve their content strategy ultimately contributing to the company's success.
+
+
+## Please feel free to explore my complete [project portfolio](https://github.com/Mabrar92) to see my data analysis skills in action.
